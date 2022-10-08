@@ -1,1 +1,2 @@
 # cs326-final-rho
+Our idea (team rho) is to create a general purpose tutoring app where people can view and submit resources for specific subjects and make a request for tutoring that other people are able to see. Each post contains the subject in detail and a description, along with any offer/free and general location to schedule meet ups. This app allows people to discover new learning materials while also offering a stress free way of meeting up with tutors who are knowledgeable in that subject. It also allows users to share great courses that they find online to others.
