@@ -48,3 +48,26 @@ li {
     float:right;
     padding-right:50px;
 }
+
+.containerbgWhite{
+    background-color:white;
+    margin-top:100px;
+}
+
+
+#yellowSideBar{
+    width:200px;
+    height: 800px;
+    background:yellow;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+#grayTutorbox{
+    width:200px;
+    height: 200px;
+    background:gray;
+    text-align: center;
+    
+}
