@@ -1,0 +1,51 @@
+html {
+    background-color: #778899;
+}
+.nav.navbar-nav li a {
+    font-size:30px;
+    color:black !important;
+}
+.navbar {
+    background-color: #778899;
+}
+.active {
+    background-color: #778899;
+}
+h1 {
+    color:blue;
+    font-weight:bold;
+}
+.container {
+    padding:none;
+}
+#levels {
+    list-style:none;
+}
+.container-background {
+    background-color:#778899;
+}
+h1 {
+    text-align:center;
+}
+.panel {
+    height:500px;
+    border-color:green;
+    background-color: #DFFFD1;
+    border-width:3px;
+}
+h2 {
+    padding-left:20px;
+    font-weight:bold;
+}
+li {
+    list-style:none;
+    font-size:20px;
+}
+.resources {
+    float:left;
+}
+.tutoring {
+    float:right;
+    margin-left:50px;
+    background-color:black;
+}
