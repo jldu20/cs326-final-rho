@@ -18,6 +18,29 @@ Home:
 
 <img src="home.png" width="500" title="hover text">
 
+HTML/CSS
+Resource page:
+
+
+
+
+
+
+<img src="resourcePage.png" width="500" title="hover text">
+
+HTML/CSS
+Tutor page:
+
+
+
+
+
+
+<img src="tutor_page.png" width="500" title="hover text">
+
+
+
+
 Breakdown: 
 
 Jerry: Home page
