@@ -18,9 +18,6 @@ Home:
 
 <img src="home.png" width="500" title="hover text">
 
-
-
-
 Breakdown: 
 
 Jerry: Home page
