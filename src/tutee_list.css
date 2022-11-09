@@ -46,7 +46,7 @@ html,body {
 #student_id{
     display: table-cell
 }
-#name{
+#card-name{
     color: white;
     font-size: 20px;
 }
