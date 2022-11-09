@@ -10,6 +10,11 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node":"18.12.1",
+    "npm":"8.19.2"
+  }
+  ,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jldu20/cs326-final-rho.git"
