@@ -50,24 +50,16 @@ h2 {
     margin-top:100px;
 }
 
-
-#yellowSideBar{
-    width:200px;
-    height: 800px;
-    background:gold;
-    margin-right: auto;
-    text-align: center;
-    
-}
 .title{
     color: red
 }
 
-#grayTutorbox{
-    width:200px;
-    height: 200px;
-    background:gray;
-    text-align: center;
-    
+.form-group {
+    margin-left:25%;
 }
-
+#tutee-submit {
+    margin-left:25%;
+}
+label {
+    color:white;
+}
